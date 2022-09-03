@@ -1,0 +1,12 @@
+let wallet = 50;
+function inYen(dollars, ) {
+    let yen = dollars * 33;
+    return yen;
+}
+function inBaht(dollars, ) {
+    let Baht = dollars * 33;
+    return Baht;
+};
+print(wallet + ' US dollars is:');
+print(inYen(wallet) + ' Japanese yen');
+print(inBath(wallet) + ' Thai Baht');
